@@ -1,0 +1,245 @@
+Bib	Name	Team name	Team name 2	Distance	Category	Time	Lap 1	Lap 2
+47	"Rader, Shawn"		"Hillsboro, Oregon"	50 Mile	Open Men	4:10:17.8	-	-
+71	"Lynch, Matthew"		"Redmond, WA"	50 Mile	Masters Men  	4:16:24.9	-	-
+108	"Lashbrook, Tyson"		"Maple Valley, washington"	50 Mile	Open Men	4:18:54.9	-	-
+21	"Merrill, John"		"Sandpoint, Idaho"	50 Mile	Open Men	4:23:51.5	-	-
+205	"Rigel, Andy"		"Seattle, Washington"	50 Mile	Open Men	4:25:33.3	-	-
+44	"Hulit, Carl"		"Seattle, WA"	50 Mile	Open Men	4:32:15.2	-	-
+75	"Dale, Pat"		"Olympia, WA"	50 Mile	Masters Men  	4:32:23.9	-	-
+199	"brady, nolan"		"steilacoom, Washington"	50 Mile	Open Men	4:33:24.5	-	-
+260	"Haag, Vince"		"Seattle , WA"	50 Mile	Masters Men  	4:37:38.0	-	-
+179	"Gile, Mike "		"Mercer Island, Washington"	50 Mile	Open Men	4:40:13.6	-	-
+10	"Heckenlaible, Rick"		"Kenmore, WA"	50 Mile	Masters Men  	4:40:20.9	-	-
+151	"Romesburg, Justin"	ESNW - Mukilteo   	"Mukilteo, Wa"	50 Mile	Open Men	4:40:32.8	-	-
+31	"Ludeman, Bob"		"Bellevue, WA"	50 Mile	Masters Men  	4:43:14.2	-	-
+23	"Berndt, Justin"		"Bothell, WA"	50 Mile	Open Men	4:43:42.9	-	-
+164	"Lund, Parker"		"Seattle, Washington"	50 Mile	Open Men	4:44:36.9	-	-
+73	"Vigil, Jared"  COGNatives	"Seattle, WA"	50 Mile	Open Men	4:45:05.3	-	-
+194	"Avolio, Peter"	Herriott Sports Performance	"Bellevue, Washington"	50 Mile	Open Men	4:45:27.3	-	-
+133	"williams, joseph"		"Seattle, WA"	50 Mile	Open Men	4:45:47.5	-	-
+67	"Peterson, Lee"	GL6 Racing	"Olympia, WA"	50 Mile	Singlespeed	4:46:23.7	-	-
+26	"VanderWaal, Aaron"		"Seattle, WA"	50 Mile	Open Men	4:49:44.9	-	-
+188	"Wilson, Robert"     Center cycle,Watcon.com	"Portorchard, Washington"	50 Mile	Masters Men  	4:53:15.2	-	-
+295	"binder, Konrad"		"Seattle, WA"	50 Mile	Open Men	4:55:02.0	-	-
+35	"Spencer, Ben"		"Seattle, WA"	50 Mile	Singlespeed	4:55:29.8	-	-
+220	"Johnson, Kevin"		"Silverdale, Washington"	50 Mile	Masters Men  	4:56:46.9	-	-
+143	"Carmack, Edwin"		"Wenatchee, WA"	50 Mile	Open Men	4:57:16.9	-	-
+175	"Hughs, Ryan"		"Seattle, Washington"	50 Mile	Open Men	4:58:43.5	-	-
+111	"Winger, Terry"		"Edgewood, WA"	50 Mile	Masters Men  	4:59:01.5	-	-
+263	"Phillips, Zack"		"Seattle, WA"	50 Mile	Singlespeed	5:01:00.0	-	-
+91	"Mikkelson, Karl"		"Hood River, OR"	50 Mile	Open Men	5:03:06.3	-	-
+213	"Shulock, Adrian"   Dirty Face Racing   	"Bellingham, Washington"	50 Mile	Open Men	5:03:23.3	-	-
+Bib	Name	Team name	Team name 2	Distance	Category	Time	Lap 1	Lap 2
+234	"Lee, Robert"		"Portand, OR"	50 Mile	Open Men	5:03:30.9	-	-
+86	"Olson, Eric"		"Renton, WA"	50 Mile	Open Men	5:03:39.2	-	-
+210	"Burton, Roger"	  Blue Rooster / Sports Med  	"Bothell, Washington"	50 Mile	Open Men	5:04:36.9	-	-
+36	"Greenberg, David"		"Eugene, OR"	50 Mile	Open Men	5:06:14.6	-	-
+122	"Nease, Travis"		"Kirkland, WA"	50 Mile	Open Men	5:07:55.9	-	-
+37	"Stralka, Lea"		"Seattle, WA"	50 Mile	Open Women	5:09:56.0	-	-
+3	"Sahl, Todd"		"Seattle, WA"	50 Mile	Open Men	5:09:58.2	-	-
+19	"Rolcik, Mike "	"Bellevue, WA"	"Bellevue, WA"	50 Mile	Open Men	5:10:00.2	-	-
+65	"Bravetti, Tony"    FareStart p/b Cobalt Mort 	"Brier, Washington"	50 Mile	Open Men	5:10:40.1	-	-
+29	"stocker, peter"   BikeSport Racing	"Seattle, WA"	50 Mile	Singlespeed	5:10:46.7	-	-
+153	"George, Charly"		"Mukilteo, Wa"	50 Mile	Open Men	5:11:33.8	-	-
+45	"Willard, Paul"	Chelan Valley Cyclists	"Manson, WA, WA"	50 Mile	Masters Men  	5:12:37.0	-	-
+198	"brady, steven"		"steilacoom, Washington"	50 Mile	Masters Men  	5:12:43.8	-	-
+155	"Cree, Anthony"		"Lynnwood, WA"	50 Mile	Open Men	5:12:52.3	-	-
+214	"Dencklau, Darren "		"Seattle, Washington"	50 Mile	Singlespeed	5:13:22.5	-	-
+24	"Rogers, Sean"		"Bend, OR"	50 Mile	Open Men	5:16:00.9	-	-
+180	"Nov, Dodi"		"Mercer Is, Washington"	50 Mile	Open Men	5:17:26.7	-	-
+18	"Casebolt, Jason"		"Olympia, Washington"	50 Mile	Singlespeed	5:17:47.2	-	-
+93	"Anderholm, Ivan"		"Hermiston, OR"	50 Mile	Open Men	5:19:02.1	-	-
+191	"Markham, Jo"		"Olympia, Washington"	50 Mile	Open Women	5:20:59.1	-	-
+227	"Brown, Nicholas"		"Kirkland, Washington"	50 Mile	Open Men	5:21:25.8	-	-
+119	"abrams, david"		"Seattle, WA"	50 Mile	Singlespeed	5:22:32.4	-	-
+189	"Turpening, Terry"		"Convington, Washington"	50 Mile	Masters Men  	5:22:36.2	-	-
+237	"Ripley, Mike"		"Monroe, OR"	50 Mile	Open Men	5:23:19.4	-	-
+168	"Haase, Bill"		"Duvall, Washington"	50 Mile	Open Men	5:24:59.4	-	-
+6	"Spence, Tim "		"Fircrest, WA"	50 Mile	Open Men	5:27:45.0	-	-
+90	"Lemcke, Jeremy"		"Bellingham, WA"	50 Mile	Open Men	5:29:11.9	-	-
+98	"Koehn, Tiff"		"Seattle, WA"	50 Mile	Open Men	5:29:28.7	-	-
+215	"Pirelli, Joe"		"Mercer Island, Washington"	50 Mile	Open Men	5:32:26.5	-	-
+190	"Martin, Christian"		"portland, oregon"	50 Mile	Open Men	5:33:45.3	-	-
+193	"Vargas, Luis"	abloc	"Pasadena, California"	50 Mile	Open Men	5:34:12.3	-	-
+202	"Grosse, Keri"	  MELRA Racing 	"Leavenworth, Washington"	50 Mile	Masters Women  	5:34:15.2	-	-
+81	"Fitch, Corey"		"Seattle, WA"	50 Mile	Open Men	5:36:42.8	-	-
+74	"Davison, Todd"	 Green Line Six FOCF 	"Olympia, WA"	50 Mile	Singlespeed	5:38:32.1	-	-
+278	"Jones, Vance"	"El Dorado Hills, CA"	"El Dorado Hills, CA"	50 Mile	Open Men	5:38:58.5	-	-
+112	"Swan, Izette"		"Seattle, WA"	50 Mile	Masters Women  	5:40:09.2	-	-
+49	"Binge, Brent"		"Seattle, WA"	50 Mile	Open Men	5:40:13.2	-	-
+82	"Savory, Dave"		"Milton, WA"	50 Mile	Open Men	5:40:23.7	-	-
+166	"Greenbaum, Alan"		"portland, oregon"	50 Mile	Open Men	5:40:34.0	-	-
+58	"Bruvall, Eric"		"Port Alberni, BC"	50 Mile	Open Men	5:41:03.5	-	-
+57	"Mitchell, Brian"    Green Line 6 / FOCF	"Olympia , WA"	50 Mile	Open Men	5:41:06.5	-	-
+154	"Larson, Shawn"	 Barefoot Racing	"Seattle, WA"	50 Mile	Open Men	5:43:48.7	-	-
+52	"Forderer, Naoko"		"Kirkland, WA"	50 Mile	Open Women	5:43:56.0	-	-
+89	"Moody, Eric"	 Mountain View cycles   	"Hood River, OR"	50 Mile	Open Men	5:44:20.4	-	-
+203	"Finch, Michael"		"Redmond, Washington"	50 Mile	Open Men	5:44:46.2	-	-
+236	"Hale, Adam"		"Olympia, Washington"	50 Mile	Singlespeed	5:45:03.7	-	-
+Bib	Name	Team name	Team name 2	Distance	Category	Time	Lap 1	Lap 2
+159	"Toye, Jim"		"Mukilteo, Wa"	50 Mile	Masters Men  	5:45:29.2	-	-
+25	"Oppenheimer, Karen"		"Bend, OR"	50 Mile	Open Women	5:46:22.7	-	-
+226	"Westfall, Heather"		"Issaquah, Washington"	50 Mile	Open Women	5:46:28.5	-	-
+106	"Cannon, Peter"	 Cannonbilt Fitness Compan	"Seattle, WA"	50 Mile	Open Men	5:47:04.8	-	-
+216	"kelly, wilbur"	   BikeSport Racing	"seattle , washington"	50 Mile	Open Men	5:47:10.5	-	-
+78	"Wright, Andrew"	Blue Rooster/SMC	"Seattle, WA"	50 Mile	Open Men	5:47:55.3	-	-
+15	"Gerwig, Scott"		"Portand, OR"	50 Mile	Open Men	5:48:01.4	-	-
+182	"Jensen, Rebecca"		"Issaquah, Washington"	50 Mile	Open Women	5:48:54.3	-	-
+60	"Anderson, Whitney"		"Bellingham, WA"	50 Mile	Open Women	5:54:12.4	-	-
+139	"Dahlke, Bob"		"Lake Oswego, OR"	50 Mile	Open Men	5:54:23.2	-	-
+134	"DeBono, Martin"		"Seattle, WA"	50 Mile	Open Men	5:54:59.1	-	-
+140	"Stanigar, Matthew"		"Renton, WA"	50 Mile	Open Men	5:55:23.7	-	-
+167	"McLean, Ina"	Bend Memorial Clinic	"Bend, Oregon"	50 Mile	Masters Women  	5:56:01.5	-	-
+206	"Wang, Eddie"		"portland, oregon"	50 Mile	Open Men	5:56:20.3	-	-
+186	"Shank, Douglas"		"Tumwater, Washington"	50 Mile	Masters Men  	5:56:24.2	-	-
+95	"WILCOX, CHARLIE"	CHINOOK OF YAKIMA	"SELAH, WA"	50 Mile	Open Men	5:57:28.5	-	-
+17	"LaMontagne, Bryan"		"Portland, OR"	50 Mile	Open Men	5:59:21.9	-	-
+308	"Benish, Frank"		"Monroe, Washington"	50 Mile	Masters Men  	6:00:25.6	-	-
+162	"adams, mike"		"shoreline, Washington"	50 Mile	Open Men	6:01:01.3	-	-
+178	"Guthrie, David"		"Seattle, Washington"	50 Mile	Singlespeed	6:01:24.4	-	-
+172	"Spir, Peter"	Team S&M	"Lake Oswego, Oregon"	50 Mile	Masters Men  	6:01:34.6	-	-
+87	"Evanson, Ed"		"Mercer Island , WA"	50 Mile	Singlespeed	6:02:00.0	-	-
+38	"Polizzi, Paul"		"Vancouver, BC"	50 Mile	Open Men	6:04:28.0	-	-
+235	"Marcoe, Suzanne"		"portland, oregon"	50 Mile	Open Women	6:04:57.1	-	-
+129	"Vos, Rod"		"Seattle, WA"	50 Mile	Open Men	6:04:59.1	-	-
+72	"Haverlick, Naomi"   COGNatives	"Seattle , WA"	50 Mile	Open Women	6:05:04.1	-	-
+160	"McKean, Kelly"	Veloce	"Portland, OR"	50 Mile	Open Women	6:05:51.9	-	-
+231	"Oppendal, Brad"	"Evil"	"Bellingham, WA"	50 Mile	Singlespeed	6:09:49.8	-	-
+114	"Roe, Erin"	GL6 Racing	"Olympia, WA"	50 Mile	Open Women	6:09:56.9	-	-
+56	"smith, james"		"battle ground, wa"	50 Mile	Masters Men  	6:10:00.6	-	-
+109	"hernandez, rick"		"everett, wa."	50 Mile	Masters Men  	6:11:54.8	-	-
+272	"Krautwald, Peter"		"Bellingham, WA"	50 Mile	Masters Men  	6:13:30.9	-	-
+92	"Evanson, Eric"		"Bellevue, Washington"	50 Mile	Masters Men  	6:13:47.3	-	-
+285	"Smith, Robin"		"Issaquah, WA"	50 Mile	Open Men	6:15:04.0	-	-
+54	"lais, james"	cheep team	"portland, oregon"	50 Mile	Open Men	6:19:25.1	-	-
+48	"Woerner, Jeff"	  Fare Start p/b Cobalt Mor 	"Seattle, WA"	50 Mile	Open Men	6:19:26.2	-	-
+16	"Webber, Dave"		"Gig Harbor, WA"	50 Mile	Masters Men  	6:20:36.3	-	-
+7	"Hodges, Suzie"		"Kirkland, WA"	50 Mile	Open Women	6:20:51.8	-	-
+232	"Brashnyk, Neil"		"Portland, OR"	50 Mile	Open Men	6:23:02.7	-	-
+170	"Zars, Hugh "	ZarsWerks	"olympia , Washington"	50 Mile	Masters Men  	6:23:46.3	-	-
+85	"sloniker, pete"		"La Center, Wa"	50 Mile	Masters Men  	6:23:50.0	-	-
+113	"Martin, Rodney"   Individual	"Sammamish, Washington"	50 Mile	Masters Men  	6:25:25.4	-	-
+4	"jacobs, ed"		"tacoma, wa"	50 Mile	Masters Men  	6:25:54.6	-	-
+149	"Stringer, Edouard"		"LANGLEY, Washington"	50 Mile	Open Men	6:27:03.0	-	-
+136	"Atwood, Brian"		"Langley, WA"	50 Mile	Open Men	6:27:04.2	-	-
+33	"godfrey, amy"		"Woodway, WA"	50 Mile	Open Women	6:27:48.1	-	-
+Bib	Name	Team name	Team name 2	Distance	Category	Time	Lap 1	Lap 2
+147	"Stucky, Ryan"	  Endurance Sports Northwest	"Mukilteo, Wa"	50 Mile	Open Men	6:29:33.6	-	-
+101	"Rees, Michael"		"Vancouver, WA"	50 Mile	Open Men	6:29:47.4	-	-
+157	"Hall, Trevor"		"Bellevue, WA"	50 Mile	Singlespeed	6:32:04.8	-	-
+225	"Everett, Paul"		"tacoma, wa"	50 Mile	Open Men	6:32:25.0	-	-
+97	"Armstrong, Tamara"   Manny's Pale Ale 	"Federal Way, WA"	50 Mile	Open Women	6:33:11.4	-	-
+20	"Dodge, Rusty"		"Bellingham, WA"	50 Mile	Open Men	6:34:02.8	-	-
+9	"Nadeau, Dennis"		"Edmonds, WA"	50 Mile	Masters Men  	6:34:47.6	-	-
+105	"Butler, K.C."		"Manchester, WA"	50 Mile	Masters Men  	6:34:50.3	-	-
+233	"Gourley, Garth"    Broken Spoke Racing	  "Port Townsend, WA"	50 Mile	Open Men	6:38:01.5	-	-
+208	"McCracken, Michael"		"Fall City, Washington"	50 Mile	Open Men	6:38:59.7	-	-
+161	"Zeigler, Andrew"		"Seattle, Washington"	50 Mile	Open Men	6:40:33.8	-	-
+204	"neumann, brad"		"Seattle, Washington"	50 Mile	Masters Men  	6:40:34.8	-	-
+63	"Wilcox, Martin"		"Seattle, WA"	50 Mile	Open Men	6:42:18.2	-	-
+217	"Griffith, Garrett"		"Lynnwood, Washington"	50 Mile	Open Men	6:42:54.9	-	-
+79	"Palzer, Chip"		"Seattle, WA"	50 Mile	Open Men	6:44:22.7	-	-
+83	"Sherrick, Bob"		"Olympia, WA"	50 Mile	Open Men	6:48:41.8	-	-
+46	"Lynn, ken"		"Eugene, OR"	50 Mile	Masters Men  	6:50:07.2	-	-
+51	"Harry, Russ"		"Issaquah, WA"	50 Mile	Masters Men  	6:51:08.6	-	-
+107	"mueller, daniel"		"Seattle, WA"	50 Mile	Open Men	6:51:19.5	-	-
+230	"Marzolf, Liz"		"Seattle, Washington"	50 Mile	Open Women	6:52:23.6	-	-
+55	"malone, daniel"		"Seattle, WA"	50 Mile	Open Men	6:54:37.5	-	-
+171	"Horton Gapay, Angela"	  Hammer Velo 	"Cornelius, Oregon"	50 Mile	Masters Women  	6:56:29.7	-	-
+66	"Stahley , ketih"		"Olympia , WA"	50 Mile	Masters Men  	6:57:37.0	-	-
+224	"Kuritz, Ben"		"Seattle, Washington"	50 Mile	Open Men	6:58:44.6	-	-
+257	"Williams, Garrett"		"Spokane, WA"	50 Mile	Open Men	6:59:55.7	-	-
+258	"D'Arienzo, Lauren"	"Spokane, WA"	"Spokane, WA"	50 Mile	Open Women	6:59:57.1	-	-
+156	"O'Donnell, Shawn"		"Everett, WA"	50 Mile	Masters Men  	7:00:50.6	-	-
+145	"Racicot, Aaron"		"Langley, WA"	50 Mile	Open Men	7:02:27.5	-	-
+117	"Campbell, Joan"	 Penny Lane	"seattle , washington"	50 Mile	Masters Women  	7:04:17.1	-	-
+116	"Campbell, Glen"	Penny Lane	"seattle , washington"	50 Mile	Masters Men  	7:04:17.5	-	-
+173	"Logue, Jeff"		"Mukilteo, Washington"	50 Mile	Masters Men  	7:04:23.0	-	-
+132	"Ellis, Pat"		"Maple Valley, WA"	50 Mile	Open Men	7:08:12.1	-	-
+30	"Jewell, Duncan"		"Bothell, WA"	50 Mile	Open Men	7:10:40.5	-	-
+176	"McClurg, Jason"	Bikesale.com/UBC 	"Kirkland, Washington"	50 Mile	Open Men	7:13:09.6	-	-
+121	"Flanery-Rye, Tony"		"Seattle, WA"	50 Mile	Open Men	7:13:12.2	-	-
+50	"Mast, Ben"		"Stow, Ma"	50 Mile	Open Men	7:15:02.0	-	-
+94	"Stanton, Scott"		"Seattle, WA"	50 Mile	Open Men	7:19:41.2	-	-
+120	"Phillips, Robbie"		"Seattle, WA"	50 Mile	Open Women	7:20:51.2	-	-
+80	"Ramirez, Pablo"		"Seattle, WA"	50 Mile	Masters Men  	7:20:53.4	-	-
+77	"Sweeney, Kevin "		"Seattle, WA"	50 Mile	Open Men	7:21:58.0	-	-
+102	"Curtin, John"	 GL6 Racing/FOCF 	"Eatonville, WA"	50 Mile	Masters Men  	7:24:59.4	-	-
+69	"Likosky, David"		"Kirkland, WA"	50 Mile	Open Men	7:26:17.8	-	-
+5	"Rosser, Andy"	"Olympia, Washington"	"Olympia, Washington"	50 Mile	Open Men	7:28:31.2	-	-
+22	"Kedan, Golan"		"Seattle, WA"	50 Mile	Open Men	7:30:24.7	-	-
+14	"Johnson, Mitch"		"tacoma, wa"	50 Mile	Open Men	7:32:37.1	-	-
+8	"Pierce, Jonathan"		"Sheridan, OR"	50 Mile	Masters Men  	7:33:24.8	-	-
+96	"Hafer, Shon"		"Shoreline, WA"	50 Mile	Open Men	7:35:42.3	-	-
+238	"Peters, Michael"		"Bellevue, WA"	50 Mile	Open Men	7:41:50.7	-	-
+201	"Munsen, Eric"		"Seattle, Washington"	50 Mile	Open Men	7:43:33.2	-	-
+Bib	Name	Team name	Team name 2	Distance	Category	Time	Lap 1	Lap 2
+197	"Audia, Franco"	  Byrne Invent 	"Bellevue, Washington"	50 Mile	Open Men	7:51:26.4	-	-
+115	"HANDY, DARIN"	FOCF	"Olympia, WA"	50 Mile	Open Men	7:57:39.2	-	-
+42	"Stucki, Doug"		"Auburn, WA"	50 Mile	Open Men	7:57:41.3	-	-
+185	"Smith, Stuart"		"Redmond, Washington"	50 Mile	Open Men	8:00:06.1	-	-
+267	"Marino, Michael"		"Everett, WA"	50 Mile	Masters Men  	8:06:10.8	-	-
+39	"Hunter, Keith"	  Team Zissou 	"La Conner, WA"	50 Mile	Masters Men  	8:06:28.6	-	-
+218	"Liebsch, Chris"		"Redmond, Washington"	50 Mile	Open Men	8:06:31.3	-	-
+184	"Adsero, Nick"	Recycled cycles racing 	"Seattle, Washington"	50 Mile	Open Men	8:06:34.0	-	-
+64	"Wayenberg, James"		"McChord AFB, WA"	50 Mile	Open Men	8:07:57.1	-	-
+40	"Southard, Jamie "		"La Conner, WA"	50 Mile	Open Men	8:10:23.1	-	-
+138	"Kutscha, Eileen"		"Seattle, WA"	50 Mile	Open Women	8:11:19.0	-	-
+228	"Almazora, Lito"		"Lacey, Washington"	50 Mile	Masters Men  	8:16:43.1	-	-
+229	"Klungle, Melissa"		"Olympia, Washington"	50 Mile	Open Women	8:16:45.5	-	-
+169	"Tomlinson, Lawrence"		"Puyallup, Washington"	50 Mile	Masters Men  	8:23:20.9	-	-
+1	"Noltensmeier, Kelly"		"Rochester, Wa"	50 Mile	Masters Men  	8:24:57.1	-	-
+2	"O'Reilley, Jude"		"Seattle, WA"	50 Mile	Open Men	8:32:40.2	-	-
+135	"Pfab, Tim"		"Federal Way, WA"	50 Mile	Open Men	8:32:44.0	-	-
+200	"sandidge, tony"		"Bellevue, Washington"	50 Mile	Masters Men  	8:36:39.5	-	-
+70	"Willits, Don"		"Bellevue, WA"	50 Mile	Masters Men  	9:03:40.5	-	-
+146	"Stucky, Jenna"		"Mukilteo, Wa"	50 Mile	Open Women	9:17:09.6	-	-
+165	"Cullop, David"		"Seattle, Washington"	50 Mile	Open Men	9:18:18.6	-	-
+131	"Blanco, Rich"		"Olympia, WA"	50 Mile	Open Men	9:18:42.4	-	-
+144	"Romaine, Deb"		"Port Townsend, WA"	50 Mile	Masters Women  	9:34:26.9	-	-
+148	"Davis, Ann"		"Maple Valley, WA"	50 Mile	Masters Women  	9:34:27.3	-	-
+174	"Morley, Quinn"		"Gig Harbor, Washington"	50 Mile	Open Men	10:57:08.4	-	-
+219	"Valdez, Santiago"		"Snohomish, Washington"	50 Mile	Open Men	11:00:26.5	-	-
+128	"Lund, Brent"		"Sumner, WA"	50 Mile	Open Men	DNF	-	-
+137	"garoutte, marc"		"Auburn, WA"	50 Mile	Masters Men  	DNF	-	-
+163	"Kettrick, Jason"		"Seattle, Washington"	50 Mile	Open Men	DNF	-	-
+195	"Swavely, Jay"		"Vancouver, Washington"	50 Mile	Masters Men  	DNF	-	-
+196	"Estocapio, Brian "		"Seattle, Washington"	50 Mile	Open Men	DNF	-	-
+207	"BARRAGAN, MARVIN"		"EVERETT, Washington"	50 Mile	Open Men	DNF	-	-
+212	"Connell, Jason"		"Bellevue, Washington"	50 Mile	Open Men	DNF	-	-
+41	"Steinberg, Larry"		"Sammamish, WA"	50 Mile	Open Men	DNF	-	-
+53	"Coffman, Corey"		"Lake Forest Park, WA"	50 Mile	Open Men	DNF	-	-
+311	"Dalle Angelini, Giancarlo"		"Issaquah, Washington"	100 Mile	Open Men	8:37:24.0	4:09:16.8	4:28:07.2
+305	"Wetzel, Logan"		"Renton, Washington"	100 Mile	Open Men	8:56:38.9	4:30:05.7	4:26:33.2
+286	"Cook, Dale"		"Spokane, WA"	100 Mile	Open Men	9:22:12.9	4:20:47.7	5:01:25.2
+266	"Kosmalski, Thomas"		"Hood River, OR"	100 Mile	Masters Men  	9:27:56.0	4:32:00.0	4:55:56.0
+280	"Sheppard, Michael"		"Portland, OR"	100 Mile	Masters Men  	9:27:57.5	4:32:50.6	4:55:06.9
+299	"Mason-Gere, Loren"		"Hood River OR, Oregon"	100 Mile	Open Men	9:52:37.2	4:40:13.9	5:12:23.3
+293	"Maedke, Jake"		"Ephrata, WA"	100 Mile	Open Men	9:56:31.6	4:30:26.4	5:26:05.2
+309	"berry, paul"		"kamloops, BC"	100 Mile	Open Men	9:56:39.9	4:43:08.6	5:13:31.3
+301	"Hasley, Kevin"		"Bellevue, Washington"	100 Mile	Open Men	9:59:32.3	4:33:34.3	5:25:58.0
+261	"Ryse, Tom"		"Spokane, WA"	100 Mile	Open Men	10:07:59.2	4:46:11.8	5:21:47.4
+Bib	Name	Team name	Team name 2	Distance	Category	Time	Lap 1	Lap 2
+287	"Ballas, Gary"		"Redmond, Washington"	100 Mile	Singlespeed	10:08:03.6	4:32:43.6	5:35:20.0
+270	"Coburn, walter"		"tacoma, wa"	100 Mile	Open Men	10:14:03.7	4:40:08.6	5:33:55.1
+296	"Criminale, Martin"		"Seattle, WA"	100 Mile	Singlespeed	10:16:28.2	4:43:22.7	5:33:05.5
+259	"Pollard, Matthew"		"Moscow, ID"	100 Mile	Singlespeed	10:28:31.6	4:55:07.9	5:33:23.7
+291	"Albright, Jim"	 Byrne Invent	"Olympia, WA"	100 Mile	Masters Men  	10:35:44.0	4:45:56.8	5:49:47.2
+313	"Hearnday, Natasha"		"Bellevue, WA"	100 Mile	Open Women	10:40:37.9	5:01:04.6	5:39:33.3
+283	"Maestas, John"		"Seattle, WA"	100 Mile	Open Men	10:45:55.4	4:55:47.9	5:50:07.5
+277	"Weigand, James"		"Seattle, WA"	100 Mile	Open Men	10:50:50.0	5:01:01.6	5:49:48.4
+310	"Gertje, Henry"		"Olympia, Washington"	100 Mile	Masters Men  	11:07:25.2	4:56:27.9	6:10:57.3
+265	"Finlayson, Darrell"		"Park City, Utah"	100 Mile	Open Men	11:14:54.6	5:13:26.7	6:01:27.9
+251	"Trombley, Robert"		"Seattle, WA"	100 Mile	Masters Men  	11:33:35.1	5:08:49.8	6:24:45.3
+281	"White, Shari"		"Portland, OR"	100 Mile	Open Women	11:34:23.4	5:10:00.0	6:24:23.4
+300	"Atkinson, Monilee"  Norco Bikes 	"Bellevue, WA"	100 Mile	Open Women	11:39:34.7	5:38:37.3	6:00:57.4
+288	"Girard, Jennifer"		"Mammoth Lakes, CA"	100 Mile	Open Women	11:44:03.9	5:27:14.9	6:16:49.0
+312	"belair, lisa"		"portland, oregon"	100 Mile	Open Women	11:59:24.8	5:52:35.5	6:06:49.3
+273	"Bronson, william"		"Spokane Valley, WA"	100 Mile	Masters Men  	11:59:26.1	5:39:03.2	6:20:22.9
+284	"Sherman, Susan"    Showers Pass Cycling Team	"Portland, OR"	100 Mile	Open Women	12:09:52.9	5:48:06.3	6:21:46.6
+292	"Kacmarcik, Mark"   Team Dirt  	"Corvallis, OR"	100 Mile	Open Men	12:50:14.3	6:07:03.1	6:43:11.2
+294	"Monroe, John"		"San Francisco, CA"	100 Mile	Masters Men  	13:05:36.4	5:48:08.5	7:17:27.9
+290	"Clizbe, Ron "	   The Clizbe's	"Bellingham, WA."	100 Mile	Masters Men  	DNF	5:34:14.1	-
+271	"Rugh, David"		"North Bend, WA"	100 Mile	Open Men	DNF	6:14:10.6	-
+304	"russo, ted"		"port moody, wa"	100 Mile	Masters Men  	DNF	-	-
+307	"Burton, Dean"		"Orting, Washington"	100 Mile	Masters Men  	DNF	-	-
