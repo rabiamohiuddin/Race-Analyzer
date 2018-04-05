@@ -1,6 +1,4 @@
-# Lab 8
 # Rabia Mohiuddin
-# CIS 41A
 # Fall 2017
 
 import re
@@ -10,7 +8,7 @@ class RaceAnalyzer:
         ''' Constructor 
             Populates from file
         '''    
-        filename = "lab8input.txt"
+        filename = "input.txt"
         self._locationCount = {}                 # Dictionary of racers by location (key)
         self._totalRacers = 0                    # count of total racers
         self._racers = {}                       # Dictionary of all racers with name (key) and list of attributes (value)
