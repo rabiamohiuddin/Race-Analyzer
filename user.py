@@ -1,3 +1,4 @@
+# User interface
 # Report on racing results
 from raceAnalyzer import RaceAnalyzer
 
