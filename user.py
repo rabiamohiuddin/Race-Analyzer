@@ -1,4 +1,4 @@
-# Lab 8: report on racing results
+# Report on racing results
 from raceAnalyzer import RaceAnalyzer
 
 analyzer = RaceAnalyzer()
