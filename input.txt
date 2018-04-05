@@ -1,4 +1,4 @@
-Bib	Name	Team name	Team name 2	Distance	Category	Time	Lap 1	Lap 2
+Bib	Name	Team name	Team Name 2	Distance	Category	Time	Lap 1	Lap 2
 47	"Rader, Shawn"		"Hillsboro, Oregon"	50 Mile	Open Men	4:10:17.8	-	-
 71	"Lynch, Matthew"		"Redmond, WA"	50 Mile	Masters Men  	4:16:24.9	-	-
 108	"Lashbrook, Tyson"		"Maple Valley, washington"	50 Mile	Open Men	4:18:54.9	-	-
